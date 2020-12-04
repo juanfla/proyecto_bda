@@ -1,0 +1,61 @@
+
+.regi{
+    padding-top: 50px;
+    margin-top: 80px;
+    margin: auto;
+    width: 500px;
+
+   
+}
+.regi p{
+    color: honeydew;
+    margin-bottom: 10px;
+    font-size: 25px;
+    text-align: center;
+}
+.inputs{
+    position: relative;
+    margin: 15px;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"]{
+    width: 95%;
+    padding: 10px;
+    font-size: 18px;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    background:transparent;
+    border: 1px solid rgb(170, 180, 74);
+    margin-bottom: 15px;
+  
+}
+
+input[type="submit"]{
+    border: none;
+    width: 25%;
+    color: white;
+    font-size: 20px;
+    margin-top: 25px;
+    background-color: rgb(207, 128, 38);
+    padding: 15px;
+    cursor: pointer;
+    margin-bottom: 25px;
+}
+.somos{
+    padding-top: 20px;
+    margin: auto;
+    width: 80%;
+    color: white;
+    font-size: 25px;
+    padding-top: 60px;
+}
+.somos h2{
+    padding-top: 30px ;
+}
+.menu p {
+    font-size: 30px;
+    color: white;
+    
+   }
